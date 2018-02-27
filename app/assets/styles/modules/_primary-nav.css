@@ -49,6 +49,10 @@
 			background-color: transparent;
 			padding: 12px 0;
 			font-size: 1rem;
+			
+			&.is-current-link {
+				color: #fabb69;
+			}
 		}
 	}
 }
